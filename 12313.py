@@ -9,3 +9,4 @@ for filename in filenames:
           print(f"Sorry, I can't find {filename}.")
 
 print("--------------------------------------------------")
+print("----")
