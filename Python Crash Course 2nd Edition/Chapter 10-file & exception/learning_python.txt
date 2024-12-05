@@ -1,0 +1,4 @@
+In Python you can swim
+In Python you can sing
+In Python you can read
+In Python you can write
