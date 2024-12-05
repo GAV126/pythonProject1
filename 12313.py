@@ -7,3 +7,5 @@ for filename in filenames:
             print(content)
     except FileNotFoundError:
           print(f"Sorry, I can't find {filename}.")
+
+print("--------------------------------------------------")
