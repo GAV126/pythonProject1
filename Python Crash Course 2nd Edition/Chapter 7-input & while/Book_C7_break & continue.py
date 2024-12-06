@@ -4,11 +4,15 @@ for letter in 'freeCodeCamp':
     print('letter :', letter)
 print("is that right?")
 
+print("--------------------------------------------")
+
 for num in range (2,10):
     if num%2==0:
         print(f"{num} is a even number")
     else:
         print(f"{num} is a odd number")
+
+print("--------------------------------------------")
 
 for num in range (2,10):
     if num%2==1:
@@ -16,6 +20,8 @@ for num in range (2,10):
         break
     print(f"{num} is a odd number")
 print("level with for")
+
+print("--------------------------------------------")
 
 current_number = 0
 while current_number <10:
