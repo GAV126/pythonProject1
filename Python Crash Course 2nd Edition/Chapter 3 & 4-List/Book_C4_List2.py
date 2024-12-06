@@ -26,15 +26,15 @@ print(players[:3])
 players = ["kai","tim","andy","Kris","Yvette"]
 length = len(players)
 print(f"Here are {length} players in our team")
-for player in players[:5]:
+for player in players[:5]:  #遍历前5名队员
     print(player.title())
 # 注意差异
-for player in players[4]:
+for player in players[4]:   #遍历第5名队员名字
     print(player.title())
 
 # copy a list
 players = ["kai","tim","andy","Kris","Yvette"]
-amatuer_players = players[:]
+amatuer_players = players[:]   # 要复制列表，可创建一个包含整个列表的切片
 print(players)
 print(amatuer_players)
 

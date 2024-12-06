@@ -32,15 +32,15 @@ print("-------------------------------------------------------------------------
 
 # 遍历一个字典
 lang = {"kai":"Spanish","Julie":"Chinese","Tim":"Malay"}
-for name, language in lang.items():
+for name, language in lang.items():   # two variables represent key and value
     print(f"{name}'s like is {language}")
 
 # 遍历所有的值，用set去获取唯一值
 lang = {"kai":"Spanish","Julie":"Chinese","Tim":"Malay","Andy":"Malay"}
-for name in set(lang.values()):  #items, keys, values
-    print(f"{name}")
+for value in set(lang.values()):  #items, keys, values
+    print(f"{value}")
 
-print("-----------------------------------------------------")
+print("--------------------------------------------------------")
 
 lang = {"kai":"Spanish","Julie":"Chinese","Tim":"Malay"}
 
@@ -61,21 +61,21 @@ if 'erin' not in lang.keys():
 
 print("-----------------------------------------------------")
 
-woring_years={"kris":5,"kai":1.5, "yvette":2}
+working_years={"kris":5,"kai":1.5, "yvette":4}
 
-for name, year in woring_years.items():
+for name, year in working_years.items():
     print(f"{name}, you have been working in council for {year} years")
 
 print("-----------------------------------------------------")
 
 # 排序
-woring_years={"kris":5,"kai":1.5, "Andy":1,"yvette":2}
-for name  in sorted(woring_years.keys()):
-    print(f"{name}, you have been working in council for {year} years")
+working_years={"kris":5,"kai":1.5, "Andy":1,"yvette":2}
+for name  in sorted(working_years.keys()):
+    print(f"{name}, you have been working in council for X years")
 
 print("Next is 6.4.1-----------------------------------------------------")
 
-# 打印多个字典
+# 打印多个字典 - 首先创建三个字典，其中每个字典都表示一个外星人。然后将这些字典都存储到一个名为aliens的列表中
 alien_0 = {"colour":"green","speed":"slow"}
 alien_1 = {"colour":"red","speed":"fast"}
 alien_2 = {"colour":"blue","speed":"slow"}
@@ -85,8 +85,9 @@ for alien in aliens:
     print(alien)
 
 print("Next is 6.4.1-----------------------------------------------------")
+
 # 6.4.1
-aliens=[]
+aliens=[]   # 首先创建一个空列表，用于存储接下来将创建的所有外星人
 for alien_number in range(30):
     new_alien = {"colour":"green","points":5,"speed":"slow"}
     aliens.append(new_alien)
@@ -128,7 +129,7 @@ for alien in aliens[:5]:
     print(alien)
 print("-----------------------------------------------------")
 
-#字段中存储列表
+#　在字典中存储列表
 pizza = {"crust":"thick","toppings":["meat","cheese"]}
 
 print(f"you've order a {pizza["crust"]} pizza with the following toppings:")
@@ -138,6 +139,7 @@ for topping in pizza["toppings"]:
 print("-----------------------------------------------------")
 # interesting result
 # lang = {"kai":["Spanish","Korean"],"Julie":"Chinese","Tim":"Malay"}
+# 如果是列表["Spanish"]这个长度是1，如果不是列表,长度是7
 
 #6.4.2　在字典中存储列表
 # Need two for

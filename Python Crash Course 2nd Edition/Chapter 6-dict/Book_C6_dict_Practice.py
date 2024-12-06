@@ -31,6 +31,9 @@ people.append(person)
 person = {'first_name': 'kai','last_name': 'yao','age': 35,'city': 'BNE'   }
 people.append(person)
 print(people)  # 打印list
+
+#遍历List里的字典value：
+# [{'first_name': 'eric', 'last_name': 'matthes', 'age': 43, 'city': 'sitka'}, {'first_name': 'kai', 'last_name': 'yao', 'age': 35, 'city': 'BNE'}]
 for person in people:
     name = f"{person['first_name'].title()} {person['last_name'].title()}"
     age = person['age']

@@ -69,7 +69,7 @@ print(cube_list)
 
 #4.11
 favorite_pizzas = ['pepperoni', 'hawaiian', 'veggie']
-friend_pizzas = favorite_pizzas[:]
+friend_pizzas = favorite_pizzas[:]  # 要复制列表，可创建一个包含整个列表的切片
 favorite_pizzas.append("Beef")
 friend_pizzas.append("Chicken")
 for favorite_pizza in favorite_pizzas:
