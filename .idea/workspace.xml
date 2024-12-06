@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51915a8e-d1cd-45b9-b5ce-a94be998669c" name="Changes" comment="added some notes">
-      <change beforePath="$PROJECT_DIR$/Python Crash Course 2nd Edition/Chapter 7-input &amp; while/Book_C7_break &amp; continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Crash Course 2nd Edition/Chapter 7-input &amp; while/Book_C7_break &amp; continue.py" afterDir="false" />
-    </list>
+    <list default="true" id="51915a8e-d1cd-45b9-b5ce-a94be998669c" name="Changes" comment="added some notes 2024-12-06" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +91,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/kaiy/PycharmProjects/pythonProject1",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "vcs.Git"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -154,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733447145576</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added some notes 2024-12-06">
+      <option name="closed" value="true" />
+      <created>1733448192860</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733448192860</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +178,7 @@
     <MESSAGE value="test for uploading to github" />
     <MESSAGE value="update and test" />
     <MESSAGE value="added some notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some notes" />
+    <MESSAGE value="added some notes 2024-12-06" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some notes 2024-12-06" />
   </component>
 </project>
