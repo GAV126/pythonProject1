@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51915a8e-d1cd-45b9-b5ce-a94be998669c" name="Changes" comment="added some notes 2024-12-06" />
+    <list default="true" id="51915a8e-d1cd-45b9-b5ce-a94be998669c" name="Changes" comment="they are commited from Pycharm 2024-12-08">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fromGitHub.py" beforeDir="false" afterPath="$PROJECT_DIR$/fromGitHub.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "GAV126"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GAV126&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/GAV126/PythonCrashCourse.git",
-    "accountId": "edfc5536-d3d5-482d-800f-65228ee18120"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GAV126/PythonCrashCourse.git&quot;,
+    &quot;accountId&quot;: &quot;edfc5536-d3d5-482d-800f-65228ee18120&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -41,64 +44,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1212.executor": "Run",
-    "Python.12313.executor": "Run",
-    "Python.555.executor": "Run",
-    "Python.Book_C10_Exception.executor": "Run",
-    "Python.Book_C10_Exception1.executor": "Run",
-    "Python.Book_C10_Json.executor": "Run",
-    "Python.Book_C10_Practice.executor": "Run",
-    "Python.Book_C10_file.executor": "Run",
-    "Python.Book_C3 & 4 Practice.executor": "Run",
-    "Python.Book_C3_List.executor": "Run",
-    "Python.Book_C3_List2.executor": "Run",
-    "Python.Book_C4_List2.executor": "Run",
-    "Python.Book_C5_Practice.executor": "Run",
-    "Python.Book_C5_if.executor": "Run",
-    "Python.Book_C6_dict.executor": "Run",
-    "Python.Book_C6_dict_Practice.executor": "Run",
-    "Python.Book_C7.executor": "Run",
-    "Python.Book_C7_break & continue.executor": "Run",
-    "Python.Book_C7_input & while.executor": "Run",
-    "Python.Book_C7_input & while_Practice.executor": "Run",
-    "Python.Book_C7_input & while_Practice1.executor": "Run",
-    "Python.Book_C8_Practice.executor": "Run",
-    "Python.Book_C8_function.executor": "Run",
-    "Python.Book_C8_function2.executor": "Run",
-    "Python.Book_C9_Class.executor": "Run",
-    "Python.Book_C9_Practice.executor": "Run",
-    "Python.Book_Practice.executor": "Run",
-    "Python.C23_Function.executor": "Run",
-    "Python.C25_Import.executor": "Run",
-    "Python.C27_Class.executor": "Run",
-    "Python.C28_Class_Practice.executor": "Run",
-    "Python.C29_Inheritance.executor": "Run",
-    "Python.C29_Inheritance_Practce.executor": "Run",
-    "Python.C31_Read_files.executor": "Run",
-    "Python.C32_Write_files.executor": "Run",
-    "Python.C5_Practice.executor": "Run",
-    "Python.Exception.executor": "Run",
-    "Python.First.executor": "Run",
-    "Python.For.executor": "Run",
-    "Python.Format String.executor": "Run",
-    "Python.Move btween list or dict.executor": "Run",
-    "Python.Third.executor": "Run",
-    "Python.break and continue.executor": "Run",
-    "Python.second.executor": "Run",
-    "Python.vcv.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/kaiy/PycharmProjects/pythonProject1",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1212.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12313.executor&quot;: &quot;Run&quot;,
+    &quot;Python.555.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C10_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C10_Exception1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C10_Json.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C10_Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C10_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C3 &amp; 4 Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C3_List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C3_List2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C4_List2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C5_Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C5_if.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C6_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C6_dict_Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C7_break &amp; continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C7_input &amp; while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C7_input &amp; while_Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C7_input &amp; while_Practice1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C8_Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C8_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C8_function2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C9_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_C9_Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Book_Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C23_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C25_Import.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C27_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C28_Class_Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C29_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C29_Inheritance_Practce.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C31_Read_files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C32_Write_files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C5_Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.First.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Format String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Move btween list or dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Third.executor&quot;: &quot;Run&quot;,
+    &quot;Python.break and continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.second.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vcv.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kaiy/PycharmProjects/pythonProject1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kaiy\PycharmProjects\pythonProject1\Book\Chapter 10" />
@@ -160,15 +163,78 @@
       <option name="project" value="LOCAL" />
       <updated>1733448192860</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added some notes 2024-12-06">
+      <option name="closed" value="true" />
+      <created>1733448430442</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733448430442</updated>
+    </task>
+    <task id="LOCAL-00006" summary="they are commited from Pycharm 2024-12-08">
+      <option name="closed" value="true" />
+      <created>1733630576808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733630576808</updated>
+    </task>
+    <task id="LOCAL-00007" summary="they are commited from Pycharm 2024-12-08">
+      <option name="closed" value="true" />
+      <created>1733632894134</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733632894134</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="7752da55-f387-4117-8925-4a8025b3172b" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="7752da55-f387-4117-8925-4a8025b3172b">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -179,6 +245,8 @@
     <MESSAGE value="update and test" />
     <MESSAGE value="added some notes" />
     <MESSAGE value="added some notes 2024-12-06" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some notes 2024-12-06" />
+    <MESSAGE value="Create fromGitHub.py&#10;&#10;try to pull it" />
+    <MESSAGE value="they are commited from Pycharm 2024-12-08" />
+    <option name="LAST_COMMIT_MESSAGE" value="they are commited from Pycharm 2024-12-08" />
   </component>
 </project>
