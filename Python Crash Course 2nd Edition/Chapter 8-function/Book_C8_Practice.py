@@ -46,6 +46,7 @@ print("----------------------8-7-1-not good will start--------------------------
 def make_album(singer_name, album_name,num_song=None):
     dic = {"singer_name":singer_name,"album_name":album_name,"num_song":num_song}
     return dic
+#print里调用函数,返回的是字典
 print(make_album("Jasmine","courage"))
 print(make_album("Taylor","1989",12))
 

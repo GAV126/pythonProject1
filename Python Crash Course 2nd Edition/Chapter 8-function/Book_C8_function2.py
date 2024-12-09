@@ -6,7 +6,7 @@
 # while polling_active:
 #     name = input("what is your name?")
 #     response = input("which country do you like?")
-#  # 将回答填入字典
+#  # 将用户回答填入字典
 #     responses[name] = response
 # # 看看是否还有人参加调查
 #     repeat = input("would you like to let another person respond? (yes/no)")

@@ -1,0 +1,155 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"51915a8e-d1cd-45b9-b5ce-a94be998669c\" name=\"Changes\" comment=\"they are commited from Pycharm 2024-12-08\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/fromGitHub.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/fromGitHub.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;GAV126&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/GAV126/PythonCrashCourse.git&quot;,\r\n    &quot;accountId&quot;: &quot;edfc5536-d3d5-482d-800f-65228ee18120&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 4\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2o1J345GVSiPJxnrFatV5BobFJz\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Python.1212.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.12313.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.555.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C10_Exception.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C10_Exception1.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C10_Json.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C10_Practice.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C10_file.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C3 &amp; 4 Practice.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C3_List.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C3_List2.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C4_List2.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C5_Practice.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C5_if.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C6_dict.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C6_dict_Practice.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C7.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C7_break &amp; continue.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C7_input &amp; while.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C7_input &amp; while_Practice.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C7_input &amp; while_Practice1.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C8_Practice.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C8_function.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C8_function2.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C9_Class.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_C9_Practice.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Book_Practice.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.C23_Function.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.C25_Import.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.C27_Class.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.C28_Class_Practice.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.C29_Inheritance.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.C29_Inheritance_Practce.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.C31_Read_files.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.C32_Write_files.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.C5_Practice.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Exception.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.First.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.For.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Format String.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Move btween list or dict.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Third.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.break and continue.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.second.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.vcv.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/kaiy/PycharmProjects/pythonProject1&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;\r\n  },\r\n  &quot;keyToStringList&quot;: {\r\n    &quot;ChangesTree.GroupingKeys&quot;: [\r\n      &quot;directory&quot;\r\n    ]\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\kaiy\\PycharmProjects\\pythonProject1\\Book\\Chapter 10\" />\r\n      <recent name=\"C:\\Users\\kaiy\\PycharmProjects\\pythonProject1\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\kaiy\\PycharmProjects\\pythonProject1\" />\r\n      <recent name=\"C:\\Users\\kaiy\\PycharmProjects\\pythonProject1\\Book\\Chapter 10\" />\r\n      <recent name=\"C:\\Users\\kaiy\\PycharmProjects\\pythonProject1\\Book\\Chapter 9\" />\r\n      <recent name=\"C:\\Users\\kaiy\\PycharmProjects\\pythonProject1\\Book\\Chapter 3 &amp; 4\" />\r\n      <recent name=\"C:\\Users\\kaiy\\PycharmProjects\\pythonProject1\\Book\\Chapter 5\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"51915a8e-d1cd-45b9-b5ce-a94be998669c\" name=\"Changes\" comment=\"\" />\r\n      <created>1730030945330</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1730030945330</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"test for uploading to github\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1733438761205</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1733438761205</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"update and test\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1733438885712</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1733438885712</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"added some notes\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1733447145576</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1733447145576</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"added some notes 2024-12-06\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1733448192860</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1733448192860</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"added some notes 2024-12-06\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1733448430442</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1733448430442</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"they are commited from Pycharm 2024-12-08\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1733630576808</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1733630576808</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"they are commited from Pycharm 2024-12-08\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1733632894134</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1733632894134</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"8\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"OPEN_GENERIC_TABS\">\r\n      <map>\r\n        <entry key=\"7752da55-f387-4117-8925-4a8025b3172b\" value=\"TOOL_WINDOW\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"7752da55-f387-4117-8925-4a8025b3172b\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"false\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"main\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"main\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"test for uploading to github\" />\r\n    <MESSAGE value=\"update and test\" />\r\n    <MESSAGE value=\"added some notes\" />\r\n    <MESSAGE value=\"added some notes 2024-12-06\" />\r\n    <MESSAGE value=\"Create fromGitHub.py&#10;&#10;try to pull it\" />\r\n    <MESSAGE value=\"they are commited from Pycharm 2024-12-08\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"they are commited from Pycharm 2024-12-08\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision dea921dfa158e155756b44bfe7a17b2593dc49f9)
++++ b/.idea/workspace.xml	(date 1733637353431)
+@@ -6,7 +6,6 @@
+   <component name="ChangeListManager">
+     <list default="true" id="51915a8e-d1cd-45b9-b5ce-a94be998669c" name="Changes" comment="they are commited from Pycharm 2024-12-08">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/fromGitHub.py" beforeDir="false" afterPath="$PROJECT_DIR$/fromGitHub.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -44,64 +43,64 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Python.1212.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.12313.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.555.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C10_Exception.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C10_Exception1.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C10_Json.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C10_Practice.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C10_file.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C3 &amp; 4 Practice.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C3_List.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C3_List2.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C4_List2.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C5_Practice.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C5_if.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C6_dict.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C6_dict_Practice.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C7.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C7_break &amp; continue.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C7_input &amp; while.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C7_input &amp; while_Practice.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C7_input &amp; while_Practice1.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C8_Practice.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C8_function.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C8_function2.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C9_Class.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_C9_Practice.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Book_Practice.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.C23_Function.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.C25_Import.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.C27_Class.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.C28_Class_Practice.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.C29_Inheritance.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.C29_Inheritance_Practce.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.C31_Read_files.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.C32_Write_files.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.C5_Practice.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Exception.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.First.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.For.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Format String.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Move btween list or dict.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.Third.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.break and continue.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.second.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.vcv.executor&quot;: &quot;Run&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/kaiy/PycharmProjects/pythonProject1&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Python.1212.executor": "Run",
++    "Python.12313.executor": "Run",
++    "Python.555.executor": "Run",
++    "Python.Book_C10_Exception.executor": "Run",
++    "Python.Book_C10_Exception1.executor": "Run",
++    "Python.Book_C10_Json.executor": "Run",
++    "Python.Book_C10_Practice.executor": "Run",
++    "Python.Book_C10_file.executor": "Run",
++    "Python.Book_C3 & 4 Practice.executor": "Run",
++    "Python.Book_C3_List.executor": "Run",
++    "Python.Book_C3_List2.executor": "Run",
++    "Python.Book_C4_List2.executor": "Run",
++    "Python.Book_C5_Practice.executor": "Run",
++    "Python.Book_C5_if.executor": "Run",
++    "Python.Book_C6_dict.executor": "Run",
++    "Python.Book_C6_dict_Practice.executor": "Run",
++    "Python.Book_C7.executor": "Run",
++    "Python.Book_C7_break & continue.executor": "Run",
++    "Python.Book_C7_input & while.executor": "Run",
++    "Python.Book_C7_input & while_Practice.executor": "Run",
++    "Python.Book_C7_input & while_Practice1.executor": "Run",
++    "Python.Book_C8_Practice.executor": "Run",
++    "Python.Book_C8_function.executor": "Run",
++    "Python.Book_C8_function2.executor": "Run",
++    "Python.Book_C9_Class.executor": "Run",
++    "Python.Book_C9_Practice.executor": "Run",
++    "Python.Book_Practice.executor": "Run",
++    "Python.C23_Function.executor": "Run",
++    "Python.C25_Import.executor": "Run",
++    "Python.C27_Class.executor": "Run",
++    "Python.C28_Class_Practice.executor": "Run",
++    "Python.C29_Inheritance.executor": "Run",
++    "Python.C29_Inheritance_Practce.executor": "Run",
++    "Python.C31_Read_files.executor": "Run",
++    "Python.C32_Write_files.executor": "Run",
++    "Python.C5_Practice.executor": "Run",
++    "Python.Exception.executor": "Run",
++    "Python.First.executor": "Run",
++    "Python.For.executor": "Run",
++    "Python.Format String.executor": "Run",
++    "Python.Move btween list or dict.executor": "Run",
++    "Python.Third.executor": "Run",
++    "Python.break and continue.executor": "Run",
++    "Python.second.executor": "Run",
++    "Python.vcv.executor": "Run",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "git-widget-placeholder": "main",
++    "last_opened_file_path": "C:/Users/kaiy/PycharmProjects/pythonProject1",
++    "settings.editor.selected.configurable": "preferences.keymap"
+   },
+-  &quot;keyToStringList&quot;: {
+-    &quot;ChangesTree.GroupingKeys&quot;: [
+-      &quot;directory&quot;
++  "keyToStringList": {
++    "ChangesTree.GroupingKeys": [
++      "directory"
+     ]
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\kaiy\PycharmProjects\pythonProject1\Book\Chapter 10" />
+@@ -187,7 +186,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1733632894134</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="they are commited from Pycharm 2024-12-08">
++      <option name="closed" value="true" />
++      <created>1733632996912</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1733632996912</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
