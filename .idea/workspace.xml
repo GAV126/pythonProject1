@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51915a8e-d1cd-45b9-b5ce-a94be998669c" name="Changes" comment="they are commited from Pycharm 2024-12-08">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fromGitHub.py" beforeDir="false" afterPath="$PROJECT_DIR$/fromGitHub.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Crash Course 2nd Edition/Chapter 8-function/Book_C8_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Crash Course 2nd Edition/Chapter 8-function/Book_C8_function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +33,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/GAV126/PythonCrashCourse.git&quot;,
-    &quot;accountId&quot;: &quot;edfc5536-d3d5-482d-800f-65228ee18120&quot;
+    &quot;url&quot;: &quot;https://github.com/GAV126/pythonProject1.git&quot;,
+    &quot;accountId&quot;: &quot;8c40f97c-beb9-42fa-93e5-b6e619bf5e10&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -92,9 +94,10 @@
     &quot;Python.second.executor&quot;: &quot;Run&quot;,
     &quot;Python.vcv.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/kaiy/PycharmProjects/pythonProject1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;ChangesTree.GroupingKeys&quot;: [
@@ -118,7 +121,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>

@@ -25,7 +25,7 @@ boy = get_formated_name("Gavin","yao","PengRui")
 print(boy)
 print("------------------------------------------------------------------------")
 
-#下面函数返回一个字典
+#下面函数返回一个字典. use variables in the function to form a dict
 def build_person(first_name, last_name):
     person = {"first":first_name,"last":last_name}
     return person
@@ -61,7 +61,7 @@ yyy = (get_formated_name(f_name,l_name)).title()
 print(f"welcome {yyy}")
 print("------------------------------------------------------------------------")
 
-# transfer list
+# transfer list - variable is a list
 def sayhello(names):
     for name in names:
         print(f"Hello, {name.title()}")
